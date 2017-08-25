@@ -1,0 +1,6 @@
+[submodule "is-software"]
+	path = is-software
+	url = https://github.com/ThomasMatlak/is-software
+[submodule "is-paper"]
+	path = is-paper
+	url = https://github.com/ThomasMatlak/is-paper
